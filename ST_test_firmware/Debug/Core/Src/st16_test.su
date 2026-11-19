@@ -1,0 +1,10 @@
+../Core/Src/st16_test.c:131:13:prvReplyCallback	536	static
+../Core/Src/st16_test.c:150:13:prvRs485Send	16	static
+../Core/Src/st16_test.c:174:13:prvFlushReplyQueue	528	static
+../Core/Src/st16_test.c:187:13:prvWaitReply	16	static
+../Core/Src/st16_test.c:196:13:prvPrintReply	32	static
+../Core/Src/st16_test.c:235:13:prvSendAndWait	568	static
+../Core/Src/st16_test.c:299:6:st16_test_init	16	static
+../Core/Src/st16_test.c:336:6:st16_test_rx	16	static
+../Core/Src/st16_test.c:349:6:st16_test_run	56	static
+../Core/Src/st16_test.c:492:6:vTaskST16Test	24	static

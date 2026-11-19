@@ -1,0 +1,5 @@
+../Core/Src/nsp_slip.c:19:10:nsp_crc16	4
+../Core/Src/nsp_slip.c:38:6:nsp_slip_decoder_init	1
+../Core/Src/nsp_slip.c:44:13:nsp_slip_decode_byte	10
+../Core/Src/nsp_slip.c:89:6:nsp_slip_process_bytes	2
+../Core/Src/nsp_slip.c:101:6:nsp_slip_send	6
